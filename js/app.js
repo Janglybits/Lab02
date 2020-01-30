@@ -49,4 +49,4 @@ if (questionFive === 'Y' || 'YES') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 // farewell//
-alert('Thanks for visiting my page, ' + nickname '! You had ' + correctAnswer ' out of 5 correct!');
+alert('Thanks for visiting my page, ' + nickname + '! You had ' + correctAnswer + ' out of 5 correct!');

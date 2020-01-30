@@ -8,11 +8,11 @@ var questionOne = prompt('Yes or No, I have two cats?');
 questionOne = questionOne.toUpperCase();
 console.log(questionOne);
 if (questionOne === 'Y' || questionOne === 'YES') {
-    alert('that\'s correct!');
-    correctAnswer++;
-    console.log(correctAnswer);
+  alert('that\'s correct!');
+  correctAnswer++;
+  console.log(correctAnswer);
 } else if (questionOne === 'N' || questionOne === 'NO') {
-    alert('Sorry, that is not correct');
+  alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 
 // Question two //
@@ -20,44 +20,44 @@ var questionTwo = prompt('Yes or No, this is a placeholder?');
 questionTwo = questionTwo.toUpperCase();
 console.log(questionTwo);
 if (questionTwo === 'Y' || questionTwo === 'YES') {
-    alert('that\'s correct!');
-    correctAnswer++;
-    console.log(correctAnswer);
+  alert('that\'s correct!');
+  correctAnswer++;
+  console.log(correctAnswer);
 } else if (questionTwo === 'N' || questionTwo === 'NO') {
-    alert('Sorry, that is not correct');
+  alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 // Question three //
 var questionThree = prompt('Yes or No, this is a placeholder?');
 questionThree = questionThree.toUpperCase();
 console.log(questionThree);
 if (questionThree === 'Y' || questionThree === 'YES') {
-    alert('that\'s correct!');
-    correctAnswer++;
-    console.log(correctAnswer);
+  alert('that\'s correct!');
+  correctAnswer++;
+  console.log(correctAnswer);
 } else if (questionThree === 'N' || questionThree === 'NO') {
-    alert('Sorry, that is not correct');
+  alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 // Question four //
 var questionFour = prompt('Yes or No, this is a placeholder?');
 questionFour = questionFour.toUpperCase();
 console.log(questionFour);
 if (questionFour === 'Y' || questionFour === 'YES') {
-    alert('that\'s correct!');
-    correctAnswer++;
-    console.log(correctAnswer);
+  alert('that\'s correct!');
+  correctAnswer++;
+  console.log(correctAnswer);
 } else if (questionFour === 'N' || questionFour === 'NO') {
-    alert('Sorry, that is not correct');
+  alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 //Question five //
 var questionFive = prompt('Yes or No, this is a placeholder?');
 questionFive = questionFive.toUpperCase();
 console.log(questionFive);
 if (questionFive === 'Y' || questionFive === 'YES') {
-    alert('that\'s correct!');
-    correctAnswer++;
-    console.log(correctAnswer);
+  alert('that\'s correct!');
+  correctAnswer++;
+  console.log(correctAnswer);
 } else if (questionFive === 'N' || questionFive === 'NO') {
-    alert('Sorry, that is not correct');
+  alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 // farewell//
 alert('Thanks for visiting my page, ' + nickname + '! You had ' + correctAnswer + ' out of 5 correct!');

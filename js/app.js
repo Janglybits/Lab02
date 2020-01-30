@@ -5,9 +5,9 @@ alert('Welcome, ' + nickname);
 // Question one //
 var questionOne = prompt('Yes or No, I have two cats?');
 questionOne = questionOne.toUpperCase();
-if (questionOne === Y || YES) {
+if (questionOne === 'Y' || 'YES') {
     alert('that\'s correct!');
-} else if (questionOne === N || NO) {
+} else if (questionOne === 'N' || 'NO') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 // Question two //

@@ -17,7 +17,7 @@ var questionTwo = prompt('Yes or No, this is a placeholder?');
 questionTwo = questionTwo.toUpperCase();
 if (questionTwo === 'Y' || 'YES') {
     alert('that\'s correct!');
-    correctAnswer++1;
+    correctAnswer++;
 } else if (questionTwo === 'N' || 'NO') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
@@ -26,7 +26,7 @@ var questionThree = prompt('Yes or No, this is a placeholder?');
 questionThree = questionThree.toUpperCase();
 if (questionThree === 'Y' || 'YES') {
     alert('that\'s correct!');
-    correctAnswer++1;
+    correctAnswer++;
 } else if (questionThree === 'N' || 'NO') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
@@ -35,7 +35,7 @@ var questionFour = prompt('Yes or No, this is a placeholder?');
 questionFour = questionFour.toUpperCase();
 if (questionFour === 'Y' || 'YES') {
     alert('that\'s correct!');
-    correctAnswer++1;
+    correctAnswer++;
 } else if (questionFour === 'N' || 'NO') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
@@ -44,7 +44,7 @@ var questionFive = prompt('Yes or No, this is a placeholder?');
 questionFive = questionFive.toUpperCase();
 if (questionFive === 'Y' || 'YES') {
     alert('that\'s correct!');
-    correctAnswer++1;
+    correctAnswer++;
 } else if (questionFive === 'N' || 'NO') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');

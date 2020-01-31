@@ -15,7 +15,7 @@ if (questionOne === 'Y' || questionOne === 'YES') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 
-// Question two //
+// Question two (nonsense to flag as a change) //
 var questionTwo = prompt('Yes or No, I served in the US Army?');
 questionTwo = questionTwo.toUpperCase();
 // console.log(questionTwo);

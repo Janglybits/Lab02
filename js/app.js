@@ -38,7 +38,7 @@ if (questionThree === 'Y' || questionThree === 'YES') {
     alert('Sorry, that is not correct');
 } else alert('Please enter yes or no');
 // Question four //
-var questionFour = prompt('Yes or No, before passing away my parents were married fornearly 50 years?');
+var questionFour = prompt('Yes or No, before passing away my parents were married for nearly 50 years?');
 questionFour = questionFour.toUpperCase();
 // console.log(questionFour);
 if (questionFour === 'Y' || questionFour === 'YES') {

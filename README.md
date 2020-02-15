@@ -1,10 +1,10 @@
 # Lab02
 About me for 201 Lab02
 
-##Problem Domain
+## Problem Domain
 Teach us more about you! Build out an “About Me” webpage that quizzes the user on fun facts gives the user some basic information about who you are and where you came from. We will build onto this project over the next few labs. Be prepared to refactor your code each day and learn about how a web site incrementally goes from an idea to a deployed site through various iterations of development.
 
-##User Stories
+## User Stories
 This is our first exposure to user stories. User stories are a device commonly used in software development to identify what the functionality and design of a product should be by considering the interests and motivations of people with varied multiple points of view. They are presented in the manner of
 
 As a __, I want __, so that __
@@ -15,7 +15,7 @@ The development team will then create sub-bullets called Feature Tasks which are
 
 Below are your lab requirements in this format with the feature tasks already created.
 
-##Instructions
+## Instructions
 As a user, I would like to learn about the site owner so I can get to know them better..
 
 Create an About Me guessing game that utilizes HTML, CSS, & JavaScript.
@@ -34,7 +34,7 @@ Display that name back to the user through a custom greeting welcoming them to y
 
 Display the user’s name back to them in your final message to the user.
 
-Developer Style Guide
+## Developer Style Guide
 A style guide is a series of standards and practices that must be followed in order for your code to be accepted by the team. This can include variable naming, file structure, and process. Below is a list of practices that you will be required to follow within this lab:
 
 Your JS file must contain a 'use strict' declaration at the top, and your javascript file must be linked in your html file as an external script file.
